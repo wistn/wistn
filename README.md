@@ -1,4 +1,4 @@
-### Hi there 👋
+### About wistn 👋
 
 <!--
 **wistn/wistn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+count_private=true
+[![About wistn](https://github-readme-stats.vercel.app/api?username=wistn&count_private=true)](https://github.com/wistn)
+
+count_private=flase
+[![About wistn](https://github-readme-stats.vercel.app/api?username=wistn&count_private=false)](https://github.com/wistn)
+[![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_test)](https://github.com/wistn/sited_test)
+[![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_test_py)](https://github.com/wistn/sited_test_py)
