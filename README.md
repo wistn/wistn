@@ -1,5 +1,4 @@
 ### About wistn 👋
-
 <!--
 **wistn/wistn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-count_private=true
-[![About wistn](https://github-readme-stats.vercel.app/api?username=wistn&count_private=true)](https://github.com/wistn)
 
-count_private=flase
-[![About wistn](https://github-readme-stats.vercel.app/api?username=wistn&count_private=false)](https://github.com/wistn)
+https://github-readme-stats.vercel.app/api?username=wistn&count_private=true 
+If you are deploying this (public) project yourself, the private contributions will be counted by default, otherwise you need to chose to share your private contribution counts(means count_private=true)
+-->
+
+<a href="https://github.com/wistn/wistn" title="About wistn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wistn&count_private=true" />
+</a>
+<a href="https://github.com/wistn" title="Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistn&langs_count=10&layout=compact" />
+</a>
+
 [![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_test)](https://github.com/wistn/sited_test)
 [![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_test_py)](https://github.com/wistn/sited_test_py)
