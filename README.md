@@ -24,5 +24,5 @@ If you are deploying this (public) project yourself, the private contributions w
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wistn&langs_count=10&layout=compact" />
 </a>
 
-[![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_test)](https://github.com/wistn/sited_test)
-[![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_test_py)](https://github.com/wistn/sited_test_py)
+[![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_js)](https://github.com/wistn/sited_js)
+[![pin](https://github-readme-stats.vercel.app/api/pin/?username=wistn&repo=sited_py)](https://github.com/wistn/sited_py)
